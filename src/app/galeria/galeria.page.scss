@@ -16,6 +16,7 @@ ion-title {
       .zoom-image:hover {
         transform: scale(1.1); /* Ajusta el valor para aumentar o disminuir el zoom */
       }
+
       .shadow-image {
         box-shadow: 0px 4px 4px rgba(22, 196, 219, 0.425); /* Ajusta los valores de la sombra según tus preferencias */
         width: 30%;
@@ -26,4 +27,4 @@ ion-title {
         box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra */
         width: 30%;
       }
-                  
+      
