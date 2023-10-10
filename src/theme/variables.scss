@@ -3,6 +3,31 @@
 
 /** Ionic CSS Variables **/
 :root {
+  /** Custom inicio **/
+  --toolbar-ini-background: #5e0b0b; 
+  --toolbar-ini-text-color: #000000;    
+  --toolbar-ini-title-font-size: 25px; 
+   /** Custom Contacto **/
+  --toolbar-con-background: #0a4623; 
+  --toolbar-con-text-color: #ffffff;    
+  --toolbar-con-title-font-size: 25px; 
+  /** Custom Catalogo **/
+  --toolbar-cat-background: #5c6b19; 
+  --toolbar-cat-text-color: #ffffff;    
+  --toolbar-cat-title-font-size: 25px; 
+  /** Custom Galeria **/
+  --toolbar-gal-background: #ab18e6; 
+  --toolbar-gal-text-color: #000000;    
+  --toolbar-gal-title-font-size: 25px; 
+  /** Custom Ajustes **/
+  --toolbar-ajs-background: #0e3449; 
+  --toolbar-ajs-text-color: #ffffff;    
+  --toolbar-ajs-title-font-size: 25px; 
+  /** Custom Perfil **/
+  --toolbar-per-background: #05a08b; 
+  --toolbar-per-text-color: #ffffff;    
+  --toolbar-per-title-font-size: 25px; 
+
   /** primary **/
   --ion-color-primary: #3880FF;
   --ion-color-primary-rgb: 56, 128, 255;
@@ -74,7 +99,25 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+/** del **/
+  --ion-color-del: #93f834;
+  --ion-color-del-rgb: 244, 245, 248;
+  --ion-color-del-contrast: #000000;
+  --ion-color-del-contrast-rgb: 0, 0, 0;
+  --ion-color-del-shade: #d7d8da;
+  --ion-color-del-tint: #f5f6f9;
+
+  /** del **/
+  --ion-color-feo: #86757e;
+  --ion-color-feo-rgb: 244, 245, 248;
+  --ion-color-feo-contrast: #000000;
+  --ion-color-feo-contrast-rgb: 0, 0, 0;
+  --ion-color-feo-shade: #d7d8da;
+  --ion-color-feo-tint: #f5f6f9;
 }
+
+
+
 
 @media (prefers-color-scheme: dark) {
   /*

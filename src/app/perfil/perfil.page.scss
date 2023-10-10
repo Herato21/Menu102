@@ -1,0 +1,9 @@
+ion-toolbar{
+    background-color: var(--toolbar-per-background);
+    color: var(--toolbar-per-text-color);
+    }
+
+ion-title {
+        font-size: var(--toolbar-per-title-font-size);
+        font-weight: bold;
+      }
